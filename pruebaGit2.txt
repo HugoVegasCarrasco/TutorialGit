@@ -1,1 +1,3 @@
-Este es otro fichero de prueba para el tutorial de Git
+Este es otro fichero de prueba para el tutorial de Git.
+
+Edito este a ver qué hace GitHub Desktop.
